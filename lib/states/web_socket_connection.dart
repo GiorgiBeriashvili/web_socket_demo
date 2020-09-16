@@ -1,0 +1,4 @@
+enum WebSocketConnection {
+  connected,
+  disconnected,
+}
